@@ -23,7 +23,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
@@ -35,6 +35,20 @@
       </file>
       <file leaf-file-name="favicon.ico" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/image/favicon.ico">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="favicon-16x16.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/image/favicon-16x16.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="favicon-32x32.png" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/image/favicon-32x32.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
@@ -590,7 +604,7 @@
       <workItem from="1481804049706" duration="90000" />
       <workItem from="1481804166994" duration="5368000" />
       <workItem from="1503332748896" duration="2443000" />
-      <workItem from="1503349495025" duration="2502000" />
+      <workItem from="1503349495025" duration="2624000" />
     </task>
     <task id="LOCAL-00001" summary="update text">
       <created>1503341933077</created>
@@ -606,11 +620,18 @@
       <option name="project" value="LOCAL" />
       <updated>1503351935766</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add favicon&#10;change title">
+      <created>1503352007137</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1503352007137</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18299000" />
+    <option name="totallyTimeSpent" value="18421000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1370" height="744" extended-state="0" />
@@ -809,6 +830,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/image/favicon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/image/favicon-16x16.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -817,19 +851,6 @@
     <entry file="file://$PROJECT_DIR$/.idea/image/favicon-32x32.png">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/image/favicon.ico">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-          <folding />
-        </state>
       </provider>
     </entry>
   </component>
