@@ -1,12 +1,26 @@
-h1 {
+div.header {
     color: rgb(200, 28, 63);
+    text-align: center;
 }
-ol {
+
+div.list1, div.list2 {
     color: black;
+    margin: auto;
+    display: table;
 }
+
 p {
+    text-align: center;
+}
+
+div.Paragraph1, div.Paragraph2 {
     font-style: italic;
-}
-p {
+    font-size: large;
     color: rgb(100, 150, 30);
+    text-align: center;
+    margin-top: 40px;
+}
+
+p.diver {
+    text-align: center;
 }
