@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="54473f60-f259-4179-baed-0781f7e7d60a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test1.css" afterPath="$PROJECT_DIR$/test1.css" />
     </list>
     <ignored path="test1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,7 +26,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
+            <state relative-caret-position="544">
               <caret line="32" column="4" lean-forward="false" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
               <folding />
             </state>
@@ -599,7 +597,7 @@
       <workItem from="1481804166994" duration="5368000" />
       <workItem from="1503332748896" duration="2443000" />
       <workItem from="1503349495025" duration="3584000" />
-      <workItem from="1503353293809" duration="4927000" />
+      <workItem from="1503353293809" duration="4996000" />
     </task>
     <task id="LOCAL-00001" summary="update text">
       <created>1503341933077</created>
@@ -650,11 +648,18 @@
       <option name="project" value="LOCAL" />
       <updated>1503354172714</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add center align">
+      <created>1503358228989</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1503358228989</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24308000" />
+    <option name="totallyTimeSpent" value="24377000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1370" height="744" extended-state="0" />
@@ -892,7 +897,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
+        <state relative-caret-position="544">
           <caret line="32" column="4" lean-forward="false" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
           <folding />
         </state>
